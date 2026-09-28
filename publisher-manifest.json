@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "320901cff772ffc959304aa0",
+  "owner": "aftqbhbjs",
+  "repo": "page-4b2180921eecebf218e7d2c4",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4b2180921eecebf218e7d2c4",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9163f2539397a46f3f755e3ab55151c0cdb1accf788423df49f32aeafed95639",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供高速VPN加速器与机场订阅服务，客户端下载及流媒体解锁。官网享受稳定网络加速。",
+          "AI_DESCRIPTION": "44F网络提供高速VPN加速器与机场订阅服务，客户端下载及流媒体解锁。官网享受稳定网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n      :root {\n        --purple: #7B2CBF;\n        --lightgray: #F5F5F5;\n        --dark: #333;\n      }\n      * {\n        margin: 0;\n        padding: 0;\n        box-sizing: border-box;\n      }\n      body {\n        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n        background-color: var(--lightgray);\n        color: var(--dark);\n        line-height: 1.6;\n        max-width: 1200px;\n        margin: 0 auto;\n        padding: 20px;\n      }\n      nav {\n        background: white;\n        padding: 1rem 2rem;\n        position: sticky;\n        top: 0;\n        z-index: 10;\n        box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n      }\n      .nav-content {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n      }\n      .logo {\n        font-size: 1.8rem;\n        font-weight: 600;\n        color: var(--purple);\n      }\n      .nav-links {\n        display: flex;\n        gap: 2rem;\n      }\n      .nav-links a {\n        color: var(--dark);\n        text-decoration: none;\n        font-weight: 500;\n      }\n      .nav-links a:hover {\n        color: var(--purple);\n      }\n      main {\n        margin: 0;\n        padding: 0;\n      }\n      header {\n        text-align: center;\n        padding: 4rem 1rem;\n        background: linear-gradient(to right, #f8fafc, #e0d4f0);\n        border-radius: 12px;\n        margin: 2rem 0;\n      }\n      h1 {\n        font-size: 2.8rem;\n        color: var(--purple);\n        margin-bottom: 1rem;\n      }\n      .cta {\n        background: var(--purple);\n        color: white;\n        padding: 12px 24px;\n        text-decoration: none;\n        border-radius: 6px;\n        display: inline-block;\n        margin: 10px;\n        transition: all 0.3s;\n      }\n      .cta:hover {\n        background: #5e1e9f;\n        transform: translateY(-2px);\n      }\n      .btn-group {\n        display: flex;\n        gap: 1rem;\n        justify-content: center;\n        flex-wrap: wrap;\n      }\n      .alternate {\n        display: flex;\n        flex-wrap: wrap;\n        gap: 2rem;\n        margin: 2rem 0;\n      }\n      .alternate > div {\n        flex: 1 1 45%;\n        background: white;\n        padding: 2rem;\n        border-radius: 12px;\n        box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n      }\n      .alternate h2 {\n        color: var(--purple);\n        margin-bottom: 1rem;\n      }\n      .plans-section {\n        background: white;\n        padding: 3rem;\n        border-radius: 12px;\n        box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n      }\n      .faq {\n        background: white;\n        padding: 2rem;\n        border-radius: 12px;\n        box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n      }\n      details {\n        margin-bottom: 1.5rem;\n        border-bottom: 1px solid #eee;\n        padding-bottom: 1rem;\n      }\n      summary {\n        font-weight: 600;\n        color: var(--purple);\n        cursor: pointer;\n        font-size: 1.1rem;\n      }\n      summary::-webkit-details-marker {\n        display: none;\n      }\n      footer {\n        text-align: center;\n        padding: 2rem;\n        color: #666;\n        font-size: 0.9rem;\n      }\n    </style>\n  \n  \n    <nav>\n      <div class=\"nav-content\">\n        <div class=\"logo\">44F网络</div>\n        <div class=\"nav-links\">\n          <a href=\"#intro\">首页</a>\n          <a href=\"#plans\">套餐</a>\n          <a href=\"#faq\">FAQ</a>\n          <a href=\"#download\">下载</a>\n        </div>\n        <a href=\"#plans\" class=\"cta\">查看套餐</a>\n      </div>\n    </nav>\n    <main>\n      <header>\n        <h1>44F网络</h1>\n        <p>稳定高速的VPN加速器与机场订阅服务</p>\n        <div class=\"btn-group\">\n          <a href=\"#plans\" class=\"cta\">查看套餐对比</a>\n          <a href=\"#download\" class=\"cta\">立即下载客户端</a>\n        </div>\n      </header>\n      <section id=\"intro\">\n        <h2>品牌简介</h2>\n        <p>44F网络是一款专业的VPN加速器与机场订阅服务。致力于为用户提供安全、稳定且速度优异的网络连接，帮助跨越地域限制，畅享全球高清内容与在线服务。</p>\n        <p>无论您是游戏玩家、内容创作者还是日常上网用户，44F网络都能为您提供可靠的支持。</p>\n      </section>\n      <section class=\"alternate\">\n        <div>\n          <h2>使用场景</h2>\n          <ul>\n            <li>• 解锁Netflix、Disney+、YouTube等国际流媒体平台</li>\n            <li>• 提供全球低延迟游戏加速优化</li>\n            <li>• 适合远程办公与家庭网络共享</li>\n            <li>• 支持企业级定制化网络方案</li>\n          </ul>\n        </div>\n        <div>\n          <h2>操作说明</h2>\n          <ol>\n            <li>访问官网下载客户端</li>\n            <li>完成账号注册与登录</li>\n            <li>选择合适的套餐进行订阅</li>\n            <li>连接节点即可开始加速</li>\n          </ol>\n        </div>\n      </section>\n      <section id=\"plans\" class=\"plans-section\">\n        <h2>套餐对比</h2>\n        {{PLANS_HTML}}\n      </section>\n      <section>\n        <h2>合作伙伴与用户</h2>\n        {{CLIENTS_HTML}}\n      </section>\n      <section id=\"faq\" class=\"faq\">\n        <h2>常见问题 FAQ</h2>\n        <details>\n          <summary>44F网络是什么？</summary>\n          <p>44F网络是一款专业的VPN加速器与机场订阅服务，提供高速稳定节点和流媒体解锁功能。</p>\n        </details>\n        <details>\n          <summary>如何使用44F网络？</summary>\n          <p>通过官网下载客户端，注册后选择套餐订阅，连接节点即可享受加速服务。</p>\n        </details>\n        <details>\n          <summary>44F网络支持哪些设备？</summary>\n          <p>支持多平台设备，包括Windows、macOS、Android、iOS和路由器等。</p>\n        </details>\n        <details>\n          <summary>能否解锁流媒体平台？</summary>\n          <p>旗舰版及以上套餐支持原生解锁Netflix、Disney+等主流平台。</p>\n        </details>\n        <details>\n          <summary>售后服务支持如何？</summary>\n          <p>团队版提供专属客户经理和7x24优先工单响应。</p>\n        </details>\n      </section>\n    </main>\n    <footer>\n      <p>© 2024 44F网络 版权所有 | <a href=\"#\">隐私政策</a> | <a href=\"#\">用户协议</a></p>\n      <p>友情链接： <a href=\"#\">机场社区</a></p>\n    </footer>\n  \n",
+          "hash": "0e797c9873278b18f62f69810fe9e3449d218397e0f1a30b8da2b0aa2db17c00",
+          "seo": {
+            "title": "44F网络 - 高速VPN与机场加速器 客户端下载",
+            "keywords": "44F网络,VPN,机场加速器,客户端下载,官网",
+            "description": "44F网络提供高速VPN加速器与机场订阅服务，客户端下载及流媒体解锁。官网享受稳定网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nkwprqq.cn",
+    "host": "b.nkwprqq.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "nkwprqq.cn",
+      "url": "https://nkwprqq.cn/",
+      "label": "胡桃云(Hutao)",
+      "apex": "nkwprqq.cn",
+      "kind": null,
+      "identity": "fqxpvfyvc/page-d6c3f8323f1dca5da12e9649"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "cfd1c8348520eca870ae8c0db2ce37c0b3c1f4e1587083e7b9babd82c050af94",
+    "sitemap.xml": "a1b2f52e9ad37a6476ea78abb58b87de1c02549a2856796be640ee82d2b887e8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "941c606a250d952c58171366b527dc6d01e46a494dbb0784b24cf7ac46b6e9ac",
+    "robots.txt": "889c078e29836d166ded18c505126596e90ac8deb5e9960c86cddd005debd81d",
+    "363716f461e13897507c2a946c17e42a.txt": "cd7167c018f71de91670a88cd081b508fd77621d57fd39428fe6dc7731ecd8a1"
+  },
+  "revision": "3378a56c9cc5c0cecb1480997dd6836f5810c32d61c06395dc10fc079ed5357c"
+}
